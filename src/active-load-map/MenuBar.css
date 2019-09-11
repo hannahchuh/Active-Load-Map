@@ -1,0 +1,57 @@
+#menuBar {
+  position: relative;
+  width: 100%;
+  z-index: 1001;
+  border-radius: 0;
+  margin: 0;
+  background-color: #00224c;
+  border: 0;
+  box-shadow: 0;
+  top: 0;
+  position: sticky;
+  height: 44px;
+}
+
+#aboutLink{
+  color: white;
+}
+
+#activeLoadMapLabel{
+  color: white;
+}
+
+#codeLink{
+  color: white;
+}
+
+#userDropdown {
+  max-width: 32px;
+  padding-right: 35px;
+  padding-top: 0px;
+}
+
+#userImage,
+.userImage {
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+}
+
+#userImageDiv {
+  padding-top: 5px;
+  padding-right: 5px;
+  max-height: 32px;
+  max-width: 32px;
+}
+
+#opsItem,
+#ideasItem,
+#calendarItem {
+}
+
+@media screen and (max-width: 450px) {
+  .siteLink {
+    color: white;
+    display: none;
+  }
+}

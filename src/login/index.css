@@ -1,0 +1,13 @@
+
+#loginButtonDiv {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  padding-right: 5px;
+}
+
+.ui.google.plus.button {
+  background-color: #dd4b39;
+  color: #fff;
+}
+

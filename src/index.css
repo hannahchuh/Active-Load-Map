@@ -1,0 +1,26 @@
+/* html::-webkit-scrollbar{
+  display: initial;
+  display: none;
+} */
+
+html {
+  -webkit-overflow-scrolling: touch;
+  overflow-x: hidden ; 
+  /* overflow-y: scroll !important ; */
+}
+::-webkit-scrollbar {
+  /* display: none !important ; */
+  /* -webkit-appearance: slider-vertical!important ; */
+}
+
+/* html {
+  overflow: scroll;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+::-webkit-scrollbar {
+  width: 0px; 
+  background: transparent;  
+} */
+
+

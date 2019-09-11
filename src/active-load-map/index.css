@@ -1,0 +1,87 @@
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+#ActiveLoadMap {
+  min-width: 200px;
+  min-height: 500px;
+}
+
+
+@media screen and (max-width: 450px) {
+  #ActiveLoadMap {
+    min-height: 400px;
+  }
+}
+
+@media screen and (max-width: 2880px) {
+  #ActiveLoadMap {
+    min-height: 450px;
+  }
+}
+
+.map_search {
+  padding: 20px;
+}
+
+.mapContainer {
+  height: 100%;
+  width: 100%;
+}
+
+.loadMapContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.map_controls {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.dropdown {
+  float: right;
+  width: 250px;
+}
+
+#range_search_lower_limit {
+  padding: 0px 5px 0px 0px;
+}
+
+#range_search_upper_limit {
+  padding: 0px 0px 0px 5px;
+}
+
+#time_zone_zero_circle {
+  opacity: 0.6;
+  color: blue;
+}
+
+#time_zone_one_circle {
+  opacity: 0.6;
+  color: green;
+}
+
+#time_zone_two_circle {
+  opacity: 0.6;
+  color: red;
+}
+
+#time_zone_three_circle {
+  opacity: 0.6;
+  color: yellow;
+}
+
+#time_zone_four_circle {
+  opacity: 0.6;
+  color: gray;
+}
+
+#time_zone_four_half_circle {
+  opacity: 0.6;
+  color: purple;
+}

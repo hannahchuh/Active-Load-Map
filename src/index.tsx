@@ -21,7 +21,7 @@ const App: React.FC = () => {
   );
 };
 
-// console.log(ReactDOMServer.renderToString(<App/>));
+console.log(ReactDOMServer.renderToString(<App/>));
 const rootElement = document.getElementById("root");
 
 ReactDOM.hydrate(<App/>, rootElement);

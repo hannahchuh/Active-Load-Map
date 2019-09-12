@@ -50,7 +50,7 @@ export const MenuBar: React.FC<{
         </Menu.Item>
         <Menu.Item>
           <a
-            href="http://github.com/hannahchuh/Active-Load-Map-Demo"
+            href="http://github.com/hannahchuh/Active-Load-Map"
             target="_blank"
             rel="noreferrer noopener"
           >
@@ -59,7 +59,7 @@ export const MenuBar: React.FC<{
         </Menu.Item>
         <Menu.Item>
           <a
-            href="http://github.com/hannahchuh/Active-Load-Map-Demo"
+            href="http://github.com/hannahchuh/Active-Load-Map"
             target="_blank"
             rel="noreferrer noopener"
           >

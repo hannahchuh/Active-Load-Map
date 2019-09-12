@@ -1,7 +1,7 @@
 # Active Load Map: Freight Transportation Management App
 
 # Intro 
-Much of the current software in the transportation management industry is outdated, lacks consolidation, and provides little functionality for efficient and user-friendly searches and visualization. For freight brokers, being able to quickly display and filter information about the locataion, status, and other information about current or potential loads (ie freigh shipments) to book is a necessity that has not been met. 
+Much of the current software in the transportation management industry is outdated, lacks consolidation, and provides little functionality for efficient, user-friendly searches and visualization. For freight brokers, being able to quickly display and filter  the location, status, and other information about loads (ie freigh shipments) to book is a necessity that has not been met. 
 
 Active Load Map is an app that parses freight shipment information, displaying relevant information on a map accompanied with weather, traffic, time zones, and transit overlays as well as filters for dates, pickups/deliveries, mode, transit status, radius search (filtering by a certain radius from a location), and city/state/province.
 
@@ -9,7 +9,7 @@ Active Load Map is an app that parses freight shipment information, displaying r
 Find the link [here](https://alm-demo.firebaseapp.com)! For demonstration purposes login functionality has been disabled on the linked page (so you won't see the "loading" icon that would normally appear when the app retrieves the shipment data from the database).
 
 # About 
-This app was created during a software development internship for a transportation and logistics company during the Summer of 2019. The frontend is written in React/Typescript and the backend is in Clojure.
+This app was created during a software development internship for a transportation and logistics company during the Summer of 2019. The frontend is written in React/Typescript and the backend is in Clojure. Google Maps API is used for geo-location, location autocomplete, and the map display.
 
 # Features
 Active Load Map is mobile friendly! <b>Screen captures</b> for what the mobile view looks like are coming soon!

@@ -4,7 +4,7 @@
 Much of the current software in the transportation management industry is outdated, lacks consolidation, and provides little functionality for efficient and user-friendly searches and visualization. For freight brokers, being able to quickly display and filter information about the locataion, status, and other information about current or potential loads (ie freigh shipments) to book is a necessity that has not been met. Active Load Map is an app that parses freight shipment information, displaying relevant information on a map accompanied with weather, traffic, time zones, and transit overlays as well as filters for dates, pickups/deliveries, mode, transit status, radius search (filtering by a certain radius from a location), and city/state/province.
 
 # Demo
-Find the link [here](https://alm-demo.firebaseapp.com)
+Find the link [here](https://alm-demo.firebaseapp.com)!
 
 # About 
 This app was created during a software development internship for a transportation and logistics company during the Summer of 2019. The frontend is written in React/Typescript and the backend is in Clojure.

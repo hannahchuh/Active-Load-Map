@@ -21,7 +21,7 @@ Active Load Map is mobile friendly! <b>Screen captures</b> for what the mobile v
   - Deliveries 
     - At Delivery (Green)
     - In Transit (Purple)
-    - All other deliveries ("On Hold", "At Pickup", etc.) (Blue)
+    - All other deliveries ("Paused", "At Pickup", etc.) (Blue)
 
 <b>Toggleable Overlays:</b>
 - Weather

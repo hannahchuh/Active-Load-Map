@@ -107,9 +107,9 @@ export function filterByCarrierAssigned(
   return load => {
     switch (input) {
       case "Assigned":
-        return load.transitStatus !== "Pending Carrier";
+        return load.transitStatus !== "Pending";
       case "Not Assigned":
-        return load.transitStatus === "Pending Carrier";
+        return load.transitStatus === "Pending";
       default:
         return true;
     }

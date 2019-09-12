@@ -19,7 +19,8 @@ export const transitStatusOptions = [
   { key: "Delivered", text: "Delivered", value: "Delivered" },
   { key: "Paused", text: "Paused", value: "Paused" },
   { key: "Payment Sent", text: "Payment Sent", value: "Payment Sent" },
-  { key: "Travelling", text: "Travelling", value: "Travelling" }
+  { key: "Travelling", text: "Travelling", value: "Travelling" },
+
 ];
 
 // time zone number bounds

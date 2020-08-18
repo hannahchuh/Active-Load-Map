@@ -12,7 +12,7 @@ Find the link [here](https://alm-demo.firebaseapp.com)! For demonstration purpos
 This app was created during a software development internship for a transportation and logistics company during the Summer of 2019. The frontend is written in React/Typescript and the backend is in Clojure. Google Maps API is used for geo-location, location autocomplete, and the map display.
 
 # Features
-Active Load Map is mobile friendly! <b>Screen captures</b> for what the mobile view looks like are coming soon!
+Active Load Map is mobile friendly! 
 
 <b>Markers:</b>
 

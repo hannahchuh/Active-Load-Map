@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "immutable": "^4.0.0-rc.12",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.26",
     "react": "^16.8.6",
     "react-datepicker": "^2.8.0",
